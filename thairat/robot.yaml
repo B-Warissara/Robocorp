@@ -1,0 +1,19 @@
+tasks:
+  extract:
+    robotTaskName: extract
+  thairat:
+    robotTaskName: thairat
+  thairat2:
+    robotTaskName: thairat2
+  thairat3:
+    robotTaskName: thairat3
+  thairat4:
+    robotTaskName: thairat4
+condaConfigFile: conda.yaml
+ignoreFiles:
+- .gitignore
+artifactsDir: output
+PATH:
+- .
+PYTHONPATH:
+- .

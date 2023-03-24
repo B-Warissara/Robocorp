@@ -1,0 +1,11 @@
+tasks:
+  khaosod:
+    robotTaskName: khaosod
+condaConfigFile: conda.yaml
+ignoreFiles:
+- .gitignore
+artifactsDir: output
+PATH:
+- .
+PYTHONPATH:
+- .

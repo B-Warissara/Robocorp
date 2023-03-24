@@ -1,0 +1,16 @@
+{
+    "Button": {
+        "screenshot": null,
+        "source": null,
+        "strategy": "css",
+        "type": "browser",
+        "value": ".pdpa-accept-button"
+    },
+    "next": {
+        "screenshot": ".images\\next-screenshot.png",
+        "source": "https://www.khaosod.co.th/crime",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".icon-next"
+    }
+}

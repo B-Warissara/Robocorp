@@ -1,0 +1,9 @@
+{
+    "Ccbbuttonconsentgive": {
+        "screenshot": ".images\\ccbbuttonconsentgive-screenshot.png",
+        "source": "https://www.tmd.go.th/weather/provinces",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".ccb__button > .consent-give"
+    }
+}

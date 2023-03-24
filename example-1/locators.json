@@ -1,0 +1,338 @@
+{
+    "1": {
+        "screenshot": ".images\\1-screenshot.png",
+        "source": "https://www.thairath.co.th/home",
+        "strategy": "link",
+        "type": "browser",
+        "value": "\u0e42\u0e04\u0e49\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 \"\u0e40\u0e25\u0e02\u0e40\u0e14\u0e47\u0e14\" \u0e04\u0e33\u0e0a\u0e30\u0e42\u0e19\u0e14 \u0e2a\u0e48\u0e2d\u0e07\u0e02\u0e31\u0e19\u0e19\u0e49\u0e33\u0e21\u0e19\u0e15\u0e4c-\u0e40\u0e07\u0e34\u0e19\u0e1b\u0e32\u0e01\u0e19\u0e32\u0e04 \u0e25\u0e38\u0e49\u0e19\u0e42\u0e0a\u0e04\u0e07\u0e27\u0e14\u0e19\u0e35\u0e49"
+    },
+    "161265": {
+        "screenshot": ".images\\161265-screenshot.png",
+        "source": "https://www.thairath.co.th/home",
+        "strategy": "link",
+        "type": "browser",
+        "value": "\u0e04\u0e2d\u0e2b\u0e27\u0e22\u0e04\u0e36\u0e01\u0e04\u0e31\u0e01 \u0e41\u0e2b\u0e48\u0e2a\u0e48\u0e2d\u0e07 \"\u0e40\u0e25\u0e02\u0e40\u0e14\u0e47\u0e14\" \u0e02\u0e31\u0e19\u0e19\u0e49\u0e33\u0e21\u0e19\u0e15\u0e4c\u0e41\u0e21\u0e48\u0e2b\u0e21\u0e2d\u0e04\u0e33\u0e0a\u0e30\u0e42\u0e19\u0e14 \u0e07\u0e27\u0e14 16/12/65"
+    },
+    "19": {
+        "screenshot": ".images\\19-screenshot.png",
+        "source": "https://www.dailynews.co.th/news/news_group/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B9%82%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%94-19/",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".elementor-section:nth-child(1) #menu-1-0897ef9 > .menu-item:nth-child(2) > .elementor-item"
+    },
+    "221202131016DementiaUltraprocess": {
+        "screenshot": ".images\\221202131016dementiaultraprocess-screenshot.png",
+        "source": "https://edition.cnn.com/specials/health/food-life-but-better",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".cn:nth-child(1) > li:nth-child(1) .media__image"
+    },
+    "9": {
+        "screenshot": ".images\\9-screenshot.png",
+        "source": "https://www.thairath.co.th/home",
+        "strategy": "link",
+        "type": "browser",
+        "value": "\u0e20\u0e39\u0e40\u0e23\u0e37\u0e2d\u0e40\u0e2b\u0e25\u0e37\u0e2d 9 \u0e2d\u0e07\u0e28\u0e32\u0e2f \u0e20\u0e39\u0e01\u0e23\u0e30\u0e14\u0e36\u0e07\u0e40\u0e01\u0e34\u0e14\u0e41\u0e21\u0e48\u0e04\u0e30\u0e19\u0e34\u0e49\u0e07 \u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19\u0e1d\u0e48\u0e32\u0e25\u0e21\u0e2b\u0e19\u0e32\u0e27\u0e44\u0e1b\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19"
+    },
+    "ArticleContentContainer": {
+        "screenshot": ".images\\articlecontentcontainer-screenshot.png",
+        "source": "https://edition.cnn.com/2022/12/13/europe/russian-defector-war-crimes-intl-cmd/index.html",
+        "strategy": "class",
+        "type": "browser",
+        "value": "article__content-container"
+    },
+    "ArticleDetail": {
+        "screenshot": ".images\\articledetail-screenshot.png",
+        "source": "https://www.thairath.co.th/news/politic/2579151",
+        "strategy": "id",
+        "type": "browser",
+        "value": "Article_Detail"
+    },
+    "Blockquote": {
+        "screenshot": ".images\\blockquote-screenshot.png",
+        "source": "https://www.geeksforgeeks.org/c-programming-language/",
+        "strategy": "css",
+        "type": "browser",
+        "value": "blockquote"
+    },
+    "COutputMultipleChoiceQuestions": {
+        "screenshot": ".images\\coutputmultiplechoicequestions-screenshot.png",
+        "source": "https://www.geeksforgeeks.org/c-programming-language/",
+        "strategy": "link",
+        "type": "browser",
+        "value": "C Output & Multiple Choice Questions"
+    },
+    "CompleteInterviewPreparation": {
+        "screenshot": ".images\\completeinterviewpreparation-screenshot.png",
+        "source": "https://www.geeksforgeeks.org/c-programming-language/",
+        "strategy": "link",
+        "type": "browser",
+        "value": "Complete Interview Preparation"
+    },
+    "DTTxtpng": {
+        "screenshot": ".images\\dttxtpng-screenshot.png",
+        "source": "https://www.thairath.co.th/home",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".visible-desktop"
+    },
+    "Div": {
+        "screenshot": null,
+        "source": null,
+        "strategy": "css",
+        "type": "browser",
+        "value": ".active .css-1lw1yp4"
+    },
+    "Div1": {
+        "screenshot": ".images\\div1-screenshot.png",
+        "source": "https://www.thairath.co.th/news/local/northeast/2579173",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".css-pcfwc8 > .container"
+    },
+    "Div2": {
+        "screenshot": ".images\\div2-screenshot.png",
+        "source": "https://www.thairath.co.th/home",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".tab-pane:nth-child(1) .__item_sectionnew_1 .css-7wgfnr"
+    },
+    "Food": {
+        "screenshot": ".images\\food-screenshot.png",
+        "source": "https://edition.cnn.com/",
+        "strategy": "link",
+        "type": "browser",
+        "value": "Food"
+    },
+    "Ft1": {
+        "screenshot": ".images\\ft1-screenshot.png",
+        "source": "https://www.thairath.co.th/news/politic/2578391",
+        "strategy": "css",
+        "type": "browser",
+        "value": "h1"
+    },
+    "LogoAmazonCafe": {
+        "screenshot": ".images\\logoamazoncafe-screenshot.png",
+        "source": "https://www.cafe-amazon.com/index.aspx",
+        "strategy": "css",
+        "type": "browser",
+        "value": "#incmenu_hrefLogo > img"
+    },
+    "Maincontent": {
+        "screenshot": ".images\\maincontent-screenshot.png",
+        "source": "https://edition.cnn.com/2022/12/13/europe/russian-defector-war-crimes-intl-cmd/index.html",
+        "strategy": "id",
+        "type": "browser",
+        "value": "maincontent"
+    },
+    "NEWS": {
+        "screenshot": ".images\\news-screenshot.png",
+        "source": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/qatar2022",
+        "strategy": "link",
+        "type": "browser",
+        "value": "NEWS"
+    },
+    "OnetrustAcceptBtnHandler": {
+        "screenshot": ".images\\onetrustacceptbtnhandler-screenshot.png",
+        "source": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/qatar2022",
+        "strategy": "id",
+        "type": "browser",
+        "value": "onetrust-accept-btn-handler"
+    },
+    "OnetrustRejectAllHandler": {
+        "screenshot": ".images\\onetrustrejectallhandler-screenshot.png",
+        "source": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/qatar2022",
+        "strategy": "id",
+        "type": "browser",
+        "value": "onetrust-reject-all-handler"
+    },
+    "Paragraph": {
+        "screenshot": ".images\\paragraph-screenshot.png",
+        "source": "https://www.thairath.co.th/news/politic/2578391",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".css-1b3yg0y > div:nth-child(1) > p"
+    },
+    "Paragraph1": {
+        "screenshot": ".images\\paragraph1-screenshot.png",
+        "source": "https://www.geeksforgeeks.org/c-programming-language/",
+        "strategy": "css",
+        "type": "browser",
+        "value": "p:nth-child(2)"
+    },
+    "PayneRobertsAndDavis": {
+        "screenshot": ".images\\paynerobertsanddavis-screenshot.png",
+        "source": "https://realpython.github.io/fake-jobs/",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".column:nth-child(1) .subtitle"
+    },
+    "SeniorPythonDeveloper": {
+        "screenshot": ".images\\seniorpythondeveloper-screenshot.png",
+        "source": "https://realpython.github.io/fake-jobs/",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".column:nth-child(1) .title"
+    },
+    "Sm16704677234069651": {
+        "screenshot": ".images\\sm16704677234069651-screenshot.png",
+        "source": "https://www.dailynews.co.th/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "sm-1670467723406965-1"
+    },
+    "Span": {
+        "screenshot": ".images\\span-screenshot.png",
+        "source": "https://www.thairath.co.th/home",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".tab-pane:nth-child(1) .__item_sectionnew_0 > .css-1n9m2d4 span"
+    },
+    "Span2": {
+        "screenshot": ".images\\span2-screenshot.png",
+        "source": "https://www.thairath.co.th/home",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".tab-pane:nth-child(1) .__item_sectionnew_1 > .css-1n9m2d4 span"
+    },
+    "Strong": {
+        "screenshot": ".images\\strong-screenshot.png",
+        "source": "https://edition.cnn.com/",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".cd__wrapper:nth-child(2) strong"
+    },
+    "Svg": {
+        "screenshot": ".images\\svg-screenshot.png",
+        "source": "https://edition.cnn.com/",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".menu-icon"
+    },
+    "TRNavbarNavmainSport": {
+        "screenshot": ".images\\trnavbarnavmainsport-screenshot.png",
+        "source": "https://www.thairath.co.th/home",
+        "strategy": "id",
+        "type": "browser",
+        "value": "TR_Navbar_NavMain_sport"
+    },
+    "Table": {
+        "screenshot": ".images\\table-screenshot.png",
+        "source": "https://testautomationpractice.blogspot.com/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "/html/body/div[4]/div[2]/div[2]/div[2]/footer/div/div[2]/div[2]/div[1]/div/div[1]/table"
+    },
+    "TableCell": {
+        "screenshot": ".images\\tablecell-screenshot.png",
+        "source": "https://testautomationpractice.blogspot.com/",
+        "strategy": "css",
+        "type": "browser",
+        "value": "tr:nth-child(2) > td:nth-child(1)"
+    },
+    "TableHeader": {
+        "screenshot": ".images\\tableheader-screenshot.png",
+        "source": "https://testautomationpractice.blogspot.com/",
+        "strategy": "css",
+        "type": "browser",
+        "value": "th:nth-child(1)"
+    },
+    "TableRow": {
+        "screenshot": ".images\\tablerow-screenshot.png",
+        "source": "https://testautomationpractice.blogspot.com/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//table[@name='BookTable']/tbody/tr[2]"
+    },
+    "TableRow1": {
+        "screenshot": ".images\\tablerow1-screenshot.png",
+        "source": "https://testautomationpractice.blogspot.com/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//table[@name='BookTable']/tbody/tr[1]"
+    },
+    "TableRow2": {
+        "screenshot": ".images\\tablerow2-screenshot.png",
+        "source": "https://testautomationpractice.blogspot.com/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//table[@name='BookTable']/tbody/tr[3]"
+    },
+    "TableRow3": {
+        "screenshot": ".images\\tablerow3-screenshot.png",
+        "source": "https://testautomationpractice.blogspot.com/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//table[@name='BookTable']/tbody/tr[4]"
+    },
+    "TableRow4": {
+        "screenshot": ".images\\tablerow4-screenshot.png",
+        "source": "https://testautomationpractice.blogspot.com/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//table[@name='BookTable']/tbody/tr[5]"
+    },
+    "Table[1]": {
+        "screenshot": ".images\\table1-screenshot.png",
+        "source": "https://testautomationpractice.blogspot.com/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//*[@id=\"HTML1\"]/div[1]/table"
+    },
+    "UnorderedList": {
+        "screenshot": ".images\\unorderedlist-screenshot.png",
+        "source": "https://www.thairath.co.th/home",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//*[@id=\"__next\"]/main/div/div[5]/div/div[2]/div/div/div[1]/ul"
+    },
+    "clicks": {
+        "screenshot": ".images\\clicks-screenshot.png",
+        "source": "https://www.thairath.co.th/home",
+        "strategy": "link",
+        "type": "browser",
+        "value": "\u0e42\u0e04\u0e49\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 \"\u0e40\u0e25\u0e02\u0e40\u0e14\u0e47\u0e14\" \u0e04\u0e33\u0e0a\u0e30\u0e42\u0e19\u0e14 \u0e2a\u0e48\u0e2d\u0e07\u0e02\u0e31\u0e19\u0e19\u0e49\u0e33\u0e21\u0e19\u0e15\u0e4c-\u0e40\u0e07\u0e34\u0e19\u0e1b\u0e32\u0e01\u0e19\u0e32\u0e04 \u0e25\u0e38\u0e49\u0e19\u0e42\u0e0a\u0e04\u0e07\u0e27\u0e14\u0e19\u0e35\u0e49"
+    },
+    "content": {
+        "screenshot": ".images\\content-screenshot.png",
+        "source": "https://www.thairath.co.th/home",
+        "strategy": "link",
+        "type": "browser",
+        "value": "\"\u0e0a\u0e39\u0e28\u0e31\u0e01\u0e14\u0e34\u0e4c\" \u0e2b\u0e27\u0e31\u0e48\u0e19 \u0e2a.\u0e2a.\u0e22\u0e49\u0e32\u0e22\u0e1e\u0e23\u0e23\u0e04\u0e1e\u0e23\u0e36\u0e1a \u0e01\u0e23\u0e30\u0e17\u0e1a\u0e28\u0e23\u0e31\u0e17\u0e18\u0e32\u0e01\u0e32\u0e23\u0e40\u0e21\u0e37\u0e2d\u0e07 \u0e2d\u0e31\u0e14 \u0e19\u0e32\u0e22\u0e01\u0e2f \u0e25\u0e2d\u0e22\u0e15\u0e31\u0e27"
+    },
+    "go": {
+        "screenshot": ".images\\go-screenshot.png",
+        "source": "https://www.thairath.co.th/home",
+        "strategy": "link",
+        "type": "browser",
+        "value": "\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e39\u0e48\u0e40\u0e27\u0e47\u0e1a \u0e44\u0e17\u0e22\u0e23\u0e31\u0e10"
+    },
+    "h1": {
+        "screenshot": ".images\\h1-screenshot.png",
+        "source": "https://www.thairath.co.th/news/politic/2579151",
+        "strategy": "css",
+        "type": "browser",
+        "value": "h1"
+    },
+    "main": {
+        "screenshot": ".images\\main-screenshot.png",
+        "source": "https://www.geeksforgeeks.org/c-programming-language/",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//*[@id=\"main\"]"
+    },
+    "text": {
+        "screenshot": ".images\\text-screenshot.png",
+        "source": "https://www.thairath.co.th/home",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "(//a[contains(@href, '/news/politic/2578511')])[2]"
+    },
+    "title": {
+        "screenshot": ".images\\title-screenshot.png",
+        "source": "https://www.thairath.co.th/lottery/news/2579260",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".__item_article-headline"
+    }
+}

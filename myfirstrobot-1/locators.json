@@ -1,0 +1,65 @@
+{
+    "Address": {
+        "screenshot": ".images\\address-screenshot.png",
+        "source": "https://www.rpa-unlimited.com/youtube/robocorp-tutorial/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "address"
+    },
+    "City": {
+        "screenshot": ".images\\city-screenshot.png",
+        "source": "https://www.rpa-unlimited.com/youtube/robocorp-tutorial/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "city"
+    },
+    "CompanyContact": {
+        "screenshot": ".images\\companycontact-screenshot.png",
+        "source": "https://www.rpa-unlimited.com/youtube/robocorp-tutorial/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "company-contact"
+    },
+    "CompanyName": {
+        "screenshot": ".images\\companyname-screenshot.png",
+        "source": "https://www.rpa-unlimited.com/youtube/robocorp-tutorial/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "company-name"
+    },
+    "Country": {
+        "screenshot": ".images\\country-screenshot.png",
+        "source": "https://www.rpa-unlimited.com/youtube/robocorp-tutorial/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "country"
+    },
+    "Div": {
+        "screenshot": ".images\\div-screenshot.png",
+        "source": "https://www.rpa-unlimited.com/youtube/robocorp-tutorial/index.php",
+        "strategy": "css",
+        "type": "browser",
+        "value": "#about > .container"
+    },
+    "Email": {
+        "screenshot": ".images\\email-screenshot.png",
+        "source": "https://www.rpa-unlimited.com/youtube/robocorp-tutorial/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "email"
+    },
+    "Telephone": {
+        "screenshot": ".images\\telephone-screenshot.png",
+        "source": "https://www.rpa-unlimited.com/youtube/robocorp-tutorial/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "telephone"
+    },
+    "Zipcode": {
+        "screenshot": ".images\\zipcode-screenshot.png",
+        "source": "https://www.rpa-unlimited.com/youtube/robocorp-tutorial/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "zipcode"
+    }
+}

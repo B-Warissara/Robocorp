@@ -1,0 +1,9 @@
+{
+    "Fadeandscale1close": {
+        "screenshot": ".images\\fadeandscale1close-screenshot.png",
+        "source": "https://www.oae.go.th/view/1/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%81/TH-TH",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".fadeandscale1_close"
+    }
+}

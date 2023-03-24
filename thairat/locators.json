@@ -1,0 +1,37 @@
+{
+    "Div": {
+        "screenshot": ".images\\div-screenshot.png",
+        "source": "https://www.thairath.co.th/news/politic/2594860",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".collapse:nth-child(1)"
+    },
+    "Go": {
+        "screenshot": ".images\\go-screenshot.png",
+        "source": "https://www.thairath.co.th/home",
+        "strategy": "link",
+        "type": "browser",
+        "value": "\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e39\u0e48\u0e40\u0e27\u0e47\u0e1a \u0e44\u0e17\u0e22\u0e23\u0e31\u0e10"
+    },
+    "tag": {
+        "screenshot": ".images\\tag-screenshot.png",
+        "source": "https://www.thairath.co.th/news/crime/2595836",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".collapse > a:nth-child(1)"
+    },
+    "\u0e14\u0e39\u0e40\u0e1e\u0e34\u0e48\u0e21": {
+        "screenshot": ".images\\\u0e14\u0e40\u0e1e\u0e21-screenshot.png",
+        "source": "https://www.thairath.co.th/news/royal",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".css-fyizue"
+    },
+    "\u0e40\u0e1e\u0e34\u0e48\u0e21": {
+        "screenshot": ".images\\\u0e40\u0e1e\u0e21-screenshot.png",
+        "source": "https://www.thairath.co.th/business/economics",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".__loadmore"
+    }
+}
